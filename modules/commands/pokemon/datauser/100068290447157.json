@@ -1,0 +1,25 @@
+{
+  "name": "や あ",
+  "ID": "100068290447157",
+  "pet": [
+    {
+      "name": "Metapod",
+      "type": "Bug",
+      "HP": 50,
+      "Attack": 20,
+      "Defense": 55,
+      "Speed": 30,
+      "coins": 15500,
+      "skill": [
+        "Shed Skin"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/011.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

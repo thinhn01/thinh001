@@ -1,0 +1,45 @@
+{
+  "name": "Hoàng Đỗ Gia Nguyên",
+  "ID": "100006622276498",
+  "pet": [
+    {
+      "name": "Ivysaur",
+      "type": "Grass",
+      "HP": "63.0",
+      "Attack": "65.1",
+      "Defense": "66.2",
+      "Speed": "63.0",
+      "coins": "25725.0",
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/002.png"
+    },
+    {
+      "name": "Munna",
+      "type": "Psychic",
+      "HP": 76,
+      "Attack": 25,
+      "Defense": 45,
+      "Speed": 24,
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/517.png"
+    },
+    {
+      "name": "Kakuna",
+      "type": "Bug",
+      "HP": 45,
+      "Attack": 25,
+      "Defense": 50,
+      "Speed": 35,
+      "coins": 15500,
+      "skill": [
+        "Shed Skin"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/014.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

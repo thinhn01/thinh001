@@ -1,0 +1,22 @@
+{
+  "name": "Phạm Văn Diện",
+  "ID": "100004253741257",
+  "pet": [
+    {
+      "name": "Dratini",
+      "type": "Dragon",
+      "HP": "15.6",
+      "Attack": "24.3",
+      "Defense": "17.1",
+      "Speed": "19.0",
+      "coins": "0.0",
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/147.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}
